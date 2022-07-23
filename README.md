@@ -1,2 +1,2 @@
 # websoket
-learning how is websoket working
+learn how websocket works
